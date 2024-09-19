@@ -31,6 +31,8 @@ Transform text into HTML tags: `Ctrl + Shift + ,`
 
 Show a Markdown preview: `Ctrl + Alt + Cmd + P`
 
+Get syntax highlighting support for ERB files: `Ctrl + Alt + Shift + R`
+
 ### Custom Shortcuts
 To find a Bundle item, use the command `Ctrl + Cmd + T`. Then, select `Edit` to add a custom keybinding.
 
